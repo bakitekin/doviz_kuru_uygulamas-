@@ -25,5 +25,7 @@ Kullanıcı arayüzünde, miktar ve para birimi seçim alanları ile hedef para 
 7. Stil ve Görsel İyileştirmeler:
 
 CSS dosyaları kullanarak, uygulamanın görünümünü iyileştirdik. Böylece, kullanıcılar arayüzde daha iyi bir deneyim yaşayabilirler.
-# doviz_kuru_uygulamas-
-# doviz_kuru_uygulamas-
+# gif
+
+
+<img src="./src/assets/screen.gif" alt="GIF"/>
